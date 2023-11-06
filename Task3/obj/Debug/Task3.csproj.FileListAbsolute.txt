@@ -1,0 +1,7 @@
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\bin\Debug\Task3.exe.config
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\bin\Debug\Task3.exe
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\bin\Debug\Task3.pdb
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\obj\Debug\Task3.exe
+D:\2. ШАГ Уроки\3. Пары\2. 2 семестр ООП\44. 04.11.23\HW-28.10.23\Task3\obj\Debug\Task3.pdb
